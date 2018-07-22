@@ -1,3 +1,4 @@
 .zip
 .mypy_cache
 .ipynb_checkpoints
+etc/
